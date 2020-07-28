@@ -1,6 +1,8 @@
 # 2020 DSSxAMEX Online Hackathon
 
-> Version `0.1.0`
+> Version `0.1.1`
+
+[toc]
 
 ## Author
 
@@ -62,13 +64,19 @@ A solution implemented with data science techniques that shows high business val
 
 A solution/proposal/initiative that presents high business value?
 
-> @TODO: need help here
+> @AMEX: We hope that American Express can guide us a guideline as to picking out the best business solution
 
 ### The Grand Prize
 
 The committee will assess all solutions regardless of the challenges applied to and select 5 teams as finalists (or 3, depending on the number of teams). The finalists get to present to AMEX on 14 September to compete for the ***Grand Prize*** of Hackathon.
 
+>   ***Note that***: a Grand Prize winner **does not** have to be a winner or runner up in other challenges. 
+
 ## Logistics
+
+### Size of a Team
+
+A maximum of 4 players on a team. Individual players are welcomed and there will be team-forming sessions
 
 ### Communication
 
@@ -84,13 +92,10 @@ The committee will create a _Slack_ channel for the hackathon. Channels include:
 
 Video conferrencing will be conducted on *Zoom*
 
-> @Scott: can you confirm which platform we will use for video conf? Considering the cost and availablity to it in different countries and regions (e.g. Google is not available in mainland China)
-
 ### Events
 
 > @TODO: technical workshops(intro to Python, intro to React, ...) and AMEX career fairs?
 >
-> @Scott: will AMEX host any events throughout the hack?
 
 ### Mentorship
 
@@ -122,7 +127,7 @@ There will be a few deadlines for the teams to submit products based on an Agile
 
 The code must be managed by _Git_ and hosted on _GitHub_ as a **public** repository. The players get to choose to be licensed under whichever protocol and choose if they want to be licensed or not.
 
-> The developers are expected to follow the [Semantic Versioning](https://semver.org) convention and [Git branching strateg](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops).
+> The developers are expected to follow the [Semantic Versioning](https://semver.org) convention and [Git branching strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops).
 
 The ***latest release*** of that repository will be consider as the final submission on 5 September
 
@@ -147,8 +152,6 @@ Each repository should come with a `README.md` that states the details, environm
 The players can claim the _GitHub_ student pack to get free access to many paid features. Apart from that, the committee will not be able to provide any technological resources(like databases, servers, domain names)
 
 > `github.io` is recommended as a domian name service
-
-> @Scott: will AMEX reimburse expenses for renting those resources? 
 
 > @TO BE DICUSSED: publish the hackathon on _DevPost_?
 
