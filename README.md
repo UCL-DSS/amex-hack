@@ -1,8 +1,6 @@
-# 2020 DSSxAMEX Online Hackathon
+# American Express Challenge 2020
 
-> Version `0.1.1`
-
-[toc]
+>   Proudly organised and presented by the ***UCL Data Science Society***
 
 ## Author
 
@@ -16,9 +14,16 @@ Head of _Science_, UCL Data Science Society
 
 ## Theme
 
-The teams are expected to propose any ***FinTech*** solutions and implement a *Proof of Concept* or *Technical Deliverable* (a *Working Prototype*) of that particular solution. There are no designated APIs or technologies required in the solutions.
+1.  ***Supporting American Express's travel business*** (E.g. better, more relevant deals with travel partners)
+    1.  ***Possible Solution A***: a travel dashboard using data from Lonely Planet for American Express so that American Express can leverage the data to customise their deals better to benefit both their partner and their customers 
+    2.  ***Possible Solution B***: Analysing a list of top locations from Lonely Planet E.g. more streamlined ways of showing travel offers Solution: a chatbot with the consumers to assist people with coming up with their travel plans, by showing them current / future travel deals American Express currently has with their partners 
+2.   ***Supporting American Express’s partnerships with small businesses*** (E.g. tailoring partnerships to consumer spending habits)
+    -   ***Possible Solution***: Coming up with an algorithm to sort current offers with merchants by relevance to the consumer 
+3.  ***Support American Express’s user security*** (E.g. More intuitive logging in approach, including various authentication techniques.)
+    -   ***Possible Solution***: Students will come up with a better link to Apple ID biometric system to log in to the user interface.
+4.  ***Any*** ***FinTech*** related technical solutions that the teams would like to implement.
 
-> In order to motivate the players to approach the problem from different angles, I decided to keep the problem as generic and as open as possible, which is ***“FinTech”*** in general.
+The teams are expected to implement a *Proof of Concept* or *Technical Deliverable* (a *Working Prototype*) of that particular solution. There are no designated APIs or technologies required in the solutions.
 
 ## Challenges and Prizes
 
@@ -31,7 +36,9 @@ There are ***four*** challenges apart from ***the Grand Prize*** of the hack tha
 - ***Best Data Science Solution***
 - ***Best Business Solution***
 
-There will be ***one*** winner from each challenge. There is no upper limit for the number of applicants accepted to a challenge. The number of applicants to the challenges will be published to all to promote teams to apply to those challenges with fewer competitors.
+There will be ***one*** winner from each challenge. There is no upper limit for the number of applicants accepted to a challenge. The number of applicants to the challenges will be published to all to promote teams to apply to those challenges with fewer competitors. 
+
+Each winning **team** of a challenge will be awarded £100 amazon voucher. The winning team of the ***Grand Prize*** will be awarded ***fast-track*** to the 2021 American Express career opportunities. 
 
 ### Best UI Design
 
@@ -45,7 +52,7 @@ The user interface design that delivers the best user experiences and the most f
 
 ### Best Hardware Hack
 
-The best hardware prototype that implements a FinTech solution. Recommended devices/platforms include:
+The best ***hardware prototype*** that implements a *FinTech* solution. Recommended devices/platforms include:
 
 - Raspberry Pi
 - Arduino Boards
@@ -58,19 +65,19 @@ The best hardware prototype that implements a FinTech solution. Recommended devi
 
 ### Best Data Science Solution
 
-A solution implemented with data science techniques that shows high business value, reasonable encapsulation, easy-to-use, robust performances, plausible scalability and so on.
+A ***technical solution*** implemented with data science techniques that shows high business value, reasonable encapsulation, easy-to-use, robust performances, plausible scalability and so on.
+
+>   ***Note that***: there is no designated datasets to be used. If one is needed, players are recommended to use the open-sourced datasets like those on `Kaggle`. If fake data feed is needed, libraries like `Python Faker` is also recommended.
 
 ### Best Business Solution
 
-A solution/proposal/initiative that presents high business value?
-
-> @AMEX: We hope that American Express can guide us a guideline as to picking out the best business solution
+A ***solution***, ***proposal***, or ***business initiative*** that presents high business value. No technical deliverable is needed for this challenge.
 
 ### The Grand Prize
 
 The committee will assess all solutions regardless of the challenges applied to and select 5 teams as finalists (or 3, depending on the number of teams). The finalists get to present to AMEX on 14 September to compete for the ***Grand Prize*** of Hackathon.
 
->   ***Note that***: a Grand Prize winner **does not** have to be a winner or runner up in other challenges. 
+>   ***Note that***: a Grand Prize winner **does not** have to be neither a winner nor runner up in other challenges. 
 
 ## Logistics
 
@@ -80,22 +87,9 @@ A maximum of 4 players on a team. Individual players are welcomed and there will
 
 ### Communication
 
-The committee will create a _Slack_ channel for the hackathon. Channels include:
+-   The committee will create a _Slack_ channel for the hackathon. 
 
-- team-forming
-- committee
-- announcement
-- mentor/help desk
-- team private channels
-- sponsors?
-- ...
-
-Video conferrencing will be conducted on *Zoom*
-
-### Events
-
-> @TODO: technical workshops(intro to Python, intro to React, ...) and AMEX career fairs?
->
+-   Video conferrencing will be conducted on *Zoom*
 
 ### Mentorship
 
@@ -103,25 +97,27 @@ The _Science_ team and some society members from the committee will work as the 
 
 > The mentors are expected to provide assistance in the high-level concepts/structure of solutions, rather than the low-level implementations. Mentorship team is not a ***debugging hotline***
 
-### Code of Conduct
-
-> @TODO
-
-### Committee and Organisation
-
-> @TODO
-
 ## Submission
 
 There will be a few deadlines for the teams to submit products based on an Agile approach. The deadlines are not mandatory but a way to motivate the teams to exercise good project management practice and Agile development methodology, making sure an MVP (***“Minimal Viable Product”***) is available and updated regularly and ensuring the committee members and mentors to be farmiliar with their projects. DDLs include:
 
-|                          Product                           |        Deadline         |      |
-| :--------------------------------------------------------: | :---------------------: | ---- |
-|                      Project Proposal                      |        19 August        |      |
-|                      Product Commits                       | 20 August ~ 6 September |      |
-|             Presentation Keynotes First Draft              |       2 September       |      |
-| Presentation Keynotes Final Draft and Product Final Commit |       5 September       |      |
-|                        Presentation                        |       6 September       |      |
+|                         Product                          |        Deadline         |
+| :------------------------------------------------------: | :---------------------: |
+|                     Project Proposal                     |        19 August        |
+|                     Product Commits                      | 20 August ~ 6 September |
+| Presentation Slides Final Draft and Product Final Commit |       5 September       |
+|                      Presentations                       |       6 September       |
+
+Upon the end of the hack, each team is expected to submit:
+
+-   Project proposal:
+    1.  Selected theme and challenge
+    2.  What the project is
+    3.  Rationale behind the project
+    4.  Technical stack (if applicable)
+
+-   Code base to the project (for technical solutions) **OR** their business proposal/initiative (for business solutions)
+-   Pitching slides and presentation
 
 ### Commits and Code Base
 
@@ -149,9 +145,10 @@ Each repository should come with a `README.md` that states the details, environm
 
 ### Technology
 
-The players can claim the _GitHub_ student pack to get free access to many paid features. Apart from that, the committee will not be able to provide any technological resources(like databases, servers, domain names)
+The players can claim the _GitHub_ student pack to get free access to many paid features. Apart from that, the committee will not be able to provide any technological resources(like databases, servers, domain names). Please feel free to reach out the mentorship team for advice on the technical stack.
 
 > `github.io` is recommended as a domian name service
 
-> @TO BE DICUSSED: publish the hackathon on _DevPost_?
+## Judging
 
+The applications to the four ***challenges*** will be judged by **the committee** from the **UCL Data Science Society**, in which the winner of each challenge will be announced. The **committee** will also select ***3*** teams as **finalists**. The finalists will *present* to the **American Express representatives** to run for the ***Grand Prize***.
