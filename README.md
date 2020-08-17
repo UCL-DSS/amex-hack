@@ -13,6 +13,7 @@ Head of _Science_, UCL Data Science Society
 17 August ~ 6 September
 
 ## Theme
+
 Teams will choose from one of the following themes for their project:
 
 1.  ***Supporting American Express's travel business*** (E.g. better, more relevant deals with travel partners)
