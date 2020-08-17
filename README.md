@@ -86,9 +86,9 @@ A maximum of 4 players on a team. Individual players are welcomed and there will
 
 ### Communication
 
-- Hackathon updates and submission links will be sent out via Facebook Page (https://www.facebook.com/theamexchallenge2020) and email.
+- Hackathon updates and submission links will be sent out via [_Facebook_ Page](https://www.facebook.com/theamexchallenge2020) and email.
 
--   The committee will create a _Slack_ channel for mentorship, help, and hackathon q&a's. Join the Slack channel here: https://join.slack.com/t/theamexchallenge2020/shared_invite/zt-gsxdm53l-~072aebG0Zz7FWkpweOWNA
+-   The committee has created a _Slack_ channel for mentorship, help, and hackathon Q&A's. Join the [Slack channel](https://join.slack.com/t/theamexchallenge2020/shared_invite/zt-gsxdm53l-~072aebG0Zz7FWkpweOWNA)
 
 -   Video conferrencing for presentations and events will be conducted on *Webex Meetings*. Meeting links will be sent out closer to the respective dates. 
 
@@ -100,7 +100,7 @@ The _Science_ team and some society members from the committee will work as the 
 
 ## Virtual Events
 
-– We will be hosting a virtual career event with American Express on 2nd September! More information will be sent out closer to the date. 
+– We will be hosting a ***virtual career event*** with ***American Express*** on 2nd September! More information will be sent out closer to the date. 
 
 – The Science Division may host workshops on an as-need basis. Schedule TBD. 
 
