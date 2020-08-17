@@ -13,6 +13,7 @@ Head of _Science_, UCL Data Science Society
 17 August ~ 6 September
 
 ## Theme
+Teams will choose from one of the following themes for their project:
 
 1.  ***Supporting American Express's travel business*** (E.g. better, more relevant deals with travel partners)
     1.  ***Possible Solution A***: a travel dashboard using data from Lonely Planet for American Express so that American Express can leverage the data to customise their deals better to benefit both their partner and their customers 
@@ -23,11 +24,11 @@ Head of _Science_, UCL Data Science Society
     -   ***Possible Solution***: Students will come up with a better link to Apple ID biometric system to log in to the user interface.
 4.  ***Any*** ***FinTech*** related technical solutions that the teams would like to implement.
 
-The teams are expected to implement a *Proof of Concept* or *Technical Deliverable* (a *Working Prototype*) of that particular solution. There are no designated APIs or technologies required in the solutions.
+The teams are expected to implement a *Proof of Concept* or *Technical Deliverable* (a *Working Prototype*) of that particular solution. There are no designated APIs or technologies required in the solutions. Use any that you are comfortable with!
 
 ## Challenges and Prizes
 
-There are ***four*** challenges apart from ***the Grand Prize*** of the hack that each team can apply to one of those: 
+There are ***four*** challenges apart from ***the Grand Prize*** of the hack that each team can apply to: 
 
 - ***Best UI Design***
 
@@ -48,7 +49,6 @@ The user interface design that delivers the best user experiences and the most f
 - compatibility of devices
 - user interaction
 - user journey
-- ...
 
 ### Best Hardware Hack
 
@@ -59,7 +59,6 @@ The best ***hardware prototype*** that implements a *FinTech* solution. Recommen
 - PCB
 - ESP Boards
 - Android Phones
-- ...
 
 > ***Note that***: the Hackathon Committee is not able to provide any hardware or devices to the players
 
@@ -87,15 +86,23 @@ A maximum of 4 players on a team. Individual players are welcomed and there will
 
 ### Communication
 
--   The committee will create a _Slack_ channel for the hackathon. 
+- Hackathon updates and submission links will be sent out via [_Facebook_ Page](https://www.facebook.com/theamexchallenge2020) and email.
 
--   Video conferrencing will be conducted on *Zoom*
+-   The committee has created a _Slack_ channel for mentorship, help, and hackathon Q&A's. Join the [Slack channel](https://join.slack.com/t/theamexchallenge2020/shared_invite/zt-gsxdm53l-~072aebG0Zz7FWkpweOWNA)
+
+-   Video conferrencing for presentations and events will be conducted on *Webex Meetings*. Meeting links will be sent out closer to the respective dates. 
 
 ### Mentorship
 
 The _Science_ team and some society members from the committee will work as the mentor team to the players. The mentor team is an on-demand specialist team that usually operates at the **mentorship/help desk** channel for quick Q&A, tips, inspiration or consultancy. If a team requires extra help in a particular area (technical or non-technical), a mentor will be assigned to that team temporarily.
 
 > The mentors are expected to provide assistance in the high-level concepts/structure of solutions, rather than the low-level implementations. Mentorship team is not a ***debugging hotline***
+
+## Virtual Events
+
+– We will be hosting a ***virtual career event*** with ***American Express*** on 2nd September! More information will be sent out closer to the date. 
+
+– The Science Division may host workshops on an as-need basis. Schedule TBD. 
 
 ## Submission
 
